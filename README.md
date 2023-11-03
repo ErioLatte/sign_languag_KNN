@@ -22,3 +22,6 @@ Struggles:
 Solution
 1. Use pretrained deep learning model to extract the feature.
 2. Implemented image augmentation to increase dataset size
+
+Speculation:
+I dont think the model is read, because the good accuracy probably caused by image augmentation (which can lead to overfitting)
