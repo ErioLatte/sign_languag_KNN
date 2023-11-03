@@ -2,7 +2,7 @@
 College_project
 
 Tools used: 
-Tensorflow, scikit-learn, 
+Tensorflow, scikit-learn
 
 Dataset source: 
 kaggle bisindo datasets 
